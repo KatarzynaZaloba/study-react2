@@ -20,4 +20,22 @@ export const sliderItems = [
         desc: "DON'T COMPROMISE ON STYLE! GET FLAT 30% OFF FOR NEW ARRIVALS.",
         bg: "fbf0f4"
     }
-]
+];
+
+export const categories = [
+    {
+        id: 1,
+        img: "https://i.ibb.co/wYSLDjd/pexels-anne-985635.jpg",
+        title: "SHIRT STYLE!",
+    },
+    {
+        id: 2,
+        img: "https:/i.ibb.co/MZgm470/pexels-ike-louis-nativdad-3229332.jpg",
+        title: "LOUNGEWEAR LOVE",
+    },
+    {
+        id: 3,
+        img: "https://i.ibb.co/1dmQrD7/pexels-nicolas-postiglioni-1080116.jpg",
+
+    },
+];
