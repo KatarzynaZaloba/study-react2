@@ -39,3 +39,37 @@ export const categories = [
 
     },
 ];
+export const popularProducts = [
+    {
+        id: 1,
+        img: "https://i.ibb.co/Lr2gf3m/pexels-jan-valle-3426418.jpg",
+    },
+    {
+        id: 2,
+        img: "https://i.ibb.co/F4fgnKv/pexels-koolshooters-7346338.jpg"
+    },
+    {
+        id: 3,
+        img: "https://i.ibb.co/0JDg6Dg/pexels-los-muertos-crew-10042874.jpg"
+    },
+    {
+        id: 4,
+        img: "https://i.ibb.com/jGM7R6K/pexels-moose-photos-1036623.jpg"
+    },
+    {
+        id: 5,
+        img: "https://i.ibb.co/0XgbyM6/pexels-nicholas-fu-9338689.jpg"
+    },
+    {
+        id: 6,
+        img: "https://i.ibb.co/n1LD3wv/pexels-pixabay-247124.jpg"
+    },
+    {
+        id: 7,
+        img: "https://i.ibb.co/wJ3p5sm/pexels-valeria-boltneva-12967.jpg"
+    },
+    {
+        id: 8,
+        img: "https://i.ibb.co/mCWW4CFr/pexels-velaria-boltneva-21126.jpg"
+    },
+];
