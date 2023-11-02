@@ -42,34 +42,34 @@ export const categories = [
 export const popularProducts = [
     {
         id: 1,
-        img: "https://i.ibb.co/Lr2gf3m/pexels-jan-valle-3426418.jpg",
+        img: "https://images.unsplash.com/photo-1614676459401-34413f54cc73?auto=format&fit=crop&q=80&w=1887&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     },
     {
         id: 2,
-        img: "https://i.ibb.co/F4fgnKv/pexels-koolshooters-7346338.jpg"
+        img: "https://images.unsplash.com/photo-1611246539484-1f8e71d19ea5?auto=format&fit=crop&q=80&w=1942&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
     },
     {
         id: 3,
-        img: "https://i.ibb.co/0JDg6Dg/pexels-los-muertos-crew-10042874.jpg"
+        img: "https://images.unsplash.com/photo-1578632292335-df3abbb0d586?auto=format&fit=crop&q=80&w=1887&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
     },
     {
         id: 4,
-        img: "https://i.ibb.com/jGM7R6K/pexels-moose-photos-1036623.jpg"
+        img: "https://images.unsplash.com/photo-1541506906615-376485cb94db?auto=format&fit=crop&q=80&w=1852&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
     },
     {
         id: 5,
-        img: "https://i.ibb.co/0XgbyM6/pexels-nicholas-fu-9338689.jpg"
+        img: "https://images.unsplash.com/photo-1605690596358-bd352f37c4fe?auto=format&fit=crop&q=80&w=1900&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
     },
     {
         id: 6,
-        img: "https://i.ibb.co/n1LD3wv/pexels-pixabay-247124.jpg"
+        img: "https://images.unsplash.com/photo-1575647662261-d6c380d85547?auto=format&fit=crop&q=80&w=1887&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
     },
     {
         id: 7,
-        img: "https://i.ibb.co/wJ3p5sm/pexels-valeria-boltneva-12967.jpg"
+        img: "https://images.unsplash.com/photo-1612636676503-77f496c96ef8?auto=format&fit=crop&q=80&w=1896&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
     },
     {
         id: 8,
-        img: "https://i.ibb.co/mCWW4CFr/pexels-velaria-boltneva-21126.jpg"
+        img: "https://images.unsplash.com/photo-1579033716894-a86a2486346b?auto=format&fit=crop&q=80&w=1887&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
     },
 ];
