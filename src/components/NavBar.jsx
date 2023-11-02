@@ -22,10 +22,17 @@ const Wrapper = styled.div`
 
 const Left = styled.div`
   flex: 1;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
 ;`
 
 const Center = styled.div`
   flex: 1;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  margin-left: 15px;
 ;`
 
 const Right = styled.div`
@@ -41,7 +48,7 @@ const Language = styled.span`
 ;`
 
 const SearchContainer = styled.div`
-    border: 0.5px solid lightgray;
+  border: 0.5px solid lightgray;
   display: flex;
   align-items: center;
   margin-left: 25px;
@@ -55,7 +62,9 @@ const Input = styled.input`
 const MenuItem = styled.div`
   font-size: 14px;
   cursor: pointer;
-  margin-left: 25px;
+  margin-left: 15px;
+  margin-right: 15px;
+  padding: 10px;
 `;
 
 
@@ -75,7 +84,7 @@ const NavBar = () => {
                 </Center>
                 <Right>
                     <MenuItem>Register</MenuItem>
-                    <MenuItem>Sign In</MenuItem>
+                    <MenuItem>Sign-In</MenuItem>
                     <MenuItem>
                         <Badge badgeContent={4} color="primary">
                             <ShoppingCartOutlined />
